@@ -1,0 +1,35 @@
+# Core Computer Vision
+opencv-python>=4.8.0
+Pillow>=10.0.0
+numpy>=1.24.0
+scipy>=1.11.0
+scikit-image>=0.21.0
+
+# High-Performance Screen Capture
+mss>=9.0.0
+pyautogui>=0.9.50
+
+# Advanced OCR (Blueprint Specification)
+easyocr>=1.7.0
+tesserocr>=2.7.0
+pytesseract>=0.3.10
+
+# Machine Learning & Object Detection
+torch>=2.0.0
+ultralytics>=8.0.0
+Pillow>=10.0.0
+
+# GUI Framework (Blueprint Specification - PyQt6)
+PyQt6>=6.4.0
+PyQt6-Qt6>=6.4.0
+
+# Database & Data Management
+sqlite3  # Built-in, no installation needed
+
+# Input Control & Hotkeys
+pynput>=1.7.0
+
+# Utilities
+darkdetect
+treys>=2.1.0  # Poker hand evaluation
+psutil>=5.9.0   # System monitoring

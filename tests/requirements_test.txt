@@ -1,0 +1,23 @@
+# Test dependencies for AI Blackjack Poker Assistant
+pytest>=7.0.0
+pytest-cov>=4.0.0
+pytest-benchmark>=4.0.0
+pytest-html>=3.1.0
+pytest-xdist>=3.0.0
+
+# Performance testing
+psutil>=5.9.0
+
+# Test data generation
+faker>=15.0.0
+
+# Coverage reporting
+coverage>=7.0.0
+
+# Mocking and testing utilities
+responses>=0.23.0
+freezegun>=1.2.0
+
+# Additional test tools
+pytest-timeout>=2.1.0
+pytest-order>=1.0.0
